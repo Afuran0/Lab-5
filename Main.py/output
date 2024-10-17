@@ -48,3 +48,14 @@ E-Book Reader Menu:
 5. Exit
 Choose an option: 5
 Exiting the e-book reader.
+
+ex of error:
+
+E-Book Reader Menu:
+1. Display Available Books
+2. Buy a Book
+3. View Purchased Books
+4. Read a Book
+5. Exit
+Choose an option: 6
+Invalid option, please try again.
