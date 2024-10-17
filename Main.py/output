@@ -1,1 +1,49 @@
+E-Book Reader Menu:
+1. Display Available Books
+2. Buy a Book
+3. View Purchased Books
+4. Read a Book
+5. Exit
+Choose an option: 1
+Available Books:
+1. Title: The Little Liar, Author: Mitch Albom, Pages: 279
+2. Title: Moby Dick, Author: Herman Melville, Pages: 635
+3. Title: The Hunger Games, Author: Suzanne Collins, Pages: 358
+4. Title: Frankenstein, Author: Mary Shelley, Pages: 280
+5. Title: The Keeper, Author: Buck Turner, Pages: 320
 
+E-Book Reader Menu:
+1. Display Available Books
+2. Buy a Book
+3. View Purchased Books
+4. Read a Book
+5. Exit
+Choose an option: 2
+Available Books:
+1. Title: The Little Liar, Author: Mitch Albom, Pages: 279
+2. Title: Moby Dick, Author: Herman Melville, Pages: 635
+3. Title: The Hunger Games, Author: Suzanne Collins, Pages: 358
+4. Title: Frankenstein, Author: Mary Shelley, Pages: 280
+5. Title: The Keeper, Author: Buck Turner, Pages: 320
+Enter the number of the book you want to buy: 3
+You have purchased 'The Hunger Games'.
+
+E-Book Reader Menu:
+1. Display Available Books
+2. Buy a Book
+3. View Purchased Books
+4. Read a Book
+5. Exit
+Choose an option: 4
+Your Purchased Books:
+Title: The Hunger Games, Author: Suzanne Collins, Pages: 358
+Enter the number of the book you want to read: 5
+Invalid book index.
+
+E-Book Reader Menu:
+1. Display Available Books
+2. Buy a Book
+3. View Purchased Books
+4. Read a Book
+5. Exit
+Choose an option:
